@@ -1,0 +1,1 @@
+javascript:!function(a){var b=document.createElement("textarea"),c=document.getSelection();b.textContent=a,document.body.appendChild(b),c.removeAllRanges(),b.select(),document.execCommand("copy"),c.removeAllRanges(),document.body.removeChild(b)}("cd Downloads & youtube-dl -x --audio-format mp3 --audio-quality 0 & exit");
